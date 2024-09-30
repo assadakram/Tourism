@@ -1,0 +1,39 @@
+
+
+body{
+  max-width: 1440px;
+  margin: auto;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+
+.gm-style-iw-chr {
+  position: absolute;
+  right: 7px;
+  top: 5px;
+  background: white ;
+  border-radius: 31px;
+  button {
+width: inherit !important;
+height: inherit !important;
+span {
+  width: 12px !important;
+  height: 12px !important;
+  margin: 6px !important;
+}
+  }
+}
+.gm-style .gm-style-iw-c {
+  padding: 0;
+  background: transparent;
+  top: -55px;
+  box-shadow: none;
+  border-radius: 12px;
+}
+.gm-style .gm-style-iw-d {
+  overflow: hidden !important;
+}
+
+.gm-style .gm-style-iw-tc {
+  display: none;
+}
